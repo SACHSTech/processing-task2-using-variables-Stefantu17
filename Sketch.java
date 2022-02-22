@@ -6,7 +6,7 @@ public class Sketch extends PApplet {
    */
   public void settings() {
     // Set size of application
-    size(400, 400);
+    size(700, 700);
   }
 
   /**
